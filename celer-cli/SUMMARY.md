@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Celer - about](README.md)
+* [😀 Celer - about](README.md)
